@@ -137,8 +137,24 @@ footer p {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     padding: 20px 20px 20px 20px;
     margin-top: 20px;
+    text-align: left;
 }
 
 .video{
     align-content: center;
+}
+
+
+.img{
+    object-position: center;
+    float:both
+}
+
+.img{
+    background-color: #fff;
+    border-radius: 4px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+    padding: 20px;
+    position:static;;
 }
